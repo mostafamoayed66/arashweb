@@ -12,9 +12,6 @@ import {
 import {Colors} from 'react-native/Libraries/NewAppScreen'
 
 const styles = StyleSheet.create({
-  container: {
-    marginTop: 50,
-  },
   sectionContainer: {
     marginTop: 32,
     paddingHorizontal: 24,
